@@ -1,0 +1,1 @@
+PC base NVR , support ONVIF
